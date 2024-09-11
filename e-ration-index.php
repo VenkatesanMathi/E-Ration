@@ -100,7 +100,7 @@
 					</div>
 
 					<li class="nav-item d-lg-block d-lg-none e-ration-nav">
-						<a class="nav-link mx-lg-4 mx-sm-0 fw-semibold  text-muted" href="javascript:void(0)">
+						<a class="nav-link mx-lg-4 mx-sm-0 fw-semibold  text-muted" href="e-ration-logout.php">
 							<i class="bi bi-box-arrow-right"></i> Logout
 						</a>
 					</li>
@@ -152,7 +152,7 @@
 
 			<div class="me-4 mx-3 d-md-block d-none  e-ration-icon">
 
-				<a href="javascript:void(0)">
+				<a href="e-ration-logout.php">
 					<i class="bi bi-box-arrow-right fs-5 text-muted e-icon"></i>
 				</a>
 
